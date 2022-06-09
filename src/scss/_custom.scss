@@ -1,0 +1,156 @@
+// Here you can add other styles
+html:not([dir="rtl"]) .c-sidebar-nav-dropdown-items .c-sidebar-nav-link{
+    padding-left: 15px !important;
+}
+.errMsgBox{
+  background-color: rgb(247, 126, 126);
+  font-size: 15px;
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.errMsgBox1{
+  color: #ef233c;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.susMsgBox1{
+  color: #1ef12f;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+
+.susMsgBox{
+  background-color: rgb(107, 209, 87);
+  font-size: 15px;
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.success {
+    color: white;
+    background-color: #2eb85c;
+    border: 1px solid #2eb85c !important;
+    border-radius: 10px;
+  }
+  .error {
+    color: white;
+    background-color: #e55353;
+    border: 1px solid #e55353 !important;
+    border-radius: 10px;
+  }
+  
+  .ok-confirm-btn{
+    background-color: #2eb85c !important;
+    color: white;
+  }
+  .cancel-confirm-btn {
+    background-color: #ef233c;
+    color: white;
+  }
+  .ok-confirm-btn:hover{
+    background-color: #d5d5d5;
+    box-shadow: 0 5px 5px 5px #000000;
+  }
+  .cancel-confirm-btn:hover {
+    background-color: #f25151;
+    box-shadow: 0 5px 5px 5px #000000;
+  }
+
+  .r-confirm-btn{
+    background-color: #e6ba68 !important;
+    color: white;
+  }
+  .r-confirm-btn:hover{
+    background-color: #cde494;
+    box-shadow: 0 5px 5px 5px #000000;
+  }
+  .c-confirm-btn{
+    background-color: #1ccfc3 !important;
+    color: white;
+  }
+  .c-confirm-btn:hover{
+    background-color: #bef5f8;
+    box-shadow: 0 5px 5px 5px #000000;
+  }
+
+  .h1container{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: cursive;
+}
+.radioo{
+  margin-left: 10px;
+}
+.gorbtn{
+  max-width: 100%;
+  min-width: 60%;
+  height:45px;
+  background-color: rgb(189, 212, 239);
+  border-radius: 7px;
+  font-size: 15px;
+  cursor: pointer;
+  border: 1px solid rgb(119, 185, 232);
+}
+
+
+
+.underline{
+    
+        text-decoration: underline;
+        text-decoration-color: rgb(119, 185, 232);
+      
+}
+
+.gorbtn:hover {
+-webkit-transform: translateY(-1px);
+transform: translateY(-3px);
+  background-color: rgb(123, 126, 210);
+  color: white;
+}
+.boddy {
+ border: 1px solid rgb(119, 185, 232);
+  font-family: cursive;
+  border-radius:20px;
+}
+
+.tableStyle{
+  text-align: "center" ; 
+  width: "100%" ;
+  
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+
+.datadisplay{
+    border: 1px solid;
+   min-width: 1330px;
+   
+
+  
+}
+tr:nth-child(even) {
+    background-color: rgb(209, 224, 236);
+
+}
+
+th {
+    border: 1px solid white;
+    height: 50px;
+    background-color: rgb(101, 175, 225);
+  
+}
+ img:hover {
+
+-webkit-transform: translateY(-1px);
+transform: translateY(-3px);
+ }
